@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoAppkansei/static/css/main.94a75e8a.css",
+    "main.js": "/TodoAppkansei/static/js/main.666aba59.js",
+    "index.html": "/TodoAppkansei/index.html",
+    "main.94a75e8a.css.map": "/TodoAppkansei/static/css/main.94a75e8a.css.map",
+    "main.666aba59.js.map": "/TodoAppkansei/static/js/main.666aba59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a75e8a.css",
+    "static/js/main.666aba59.js"
+  ]
+}
